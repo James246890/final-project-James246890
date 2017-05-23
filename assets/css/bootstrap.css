@@ -350,6 +350,11 @@ img {
   max-width: 100%;
 }
 
+.img-size {
+  height: 320px;
+  width: 240px;
+}
+
 .img-rounded {
   border-radius: 6px;
 }
@@ -555,6 +560,8 @@ ul,
 ol {
   margin-top: 0;
   margin-bottom: 10px;
+  color: #ffffff;
+  text-align: left;
 }
 
 ul ul,
